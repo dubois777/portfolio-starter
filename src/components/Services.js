@@ -32,7 +32,7 @@ const services = [
   {
     name: 'onderhoud',
     description:
-    'Dubois Media Development bied u een onderhouds abbonnement aan voor als u ooit iets zou willen veranderen/wijzigen aan uw website, dan bent u hiervoor al verzeker.',
+    'Dubois Media Development bied u een onderhouds abbonnement aan voor als u ooit iets zou willen veranderen/wijzigen aan uw website, dan bent u hiervoor al verzekert.',
     
 
   }
