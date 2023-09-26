@@ -36,7 +36,7 @@ const Banner = () => {
   className='text-accent' wrapper='span' repeat={Infinity}/>
   </motion.div>
   <motion.p variants={fadeIn('left', 0.4)} initial='hidden' whileInView={'show'} viewport={{once:false, amount:0.7}} className='mb-8 max-w-lg mx-auto lg:mx-0'>
-  Hallo! Wij zijn ben Dubois Media Development en wij kunnen een verbluffende website maken voor uw bedrijf!
+  Hallo! Wij zijn Dubois Media Development en wij kunnen een verbluffende website maken voor uw bedrijf!
    <br />Neem gerust contact met ons op zodat wij u zo  <br />spoedig mogelijk kunnen helpen!
   </motion.p>
   <div className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'>
