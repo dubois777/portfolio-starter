@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c8ac685.css",
+    "main.js": "/static/js/main.01486a6c.js",
+    "static/media/portfolio-img3.png": "/static/media/portfolio-img3.e2bf250541b961cca642.png",
+    "static/media/le-freak.png": "/static/media/le-freak.35a895486a2ff892a472.png",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/Screenshot 2023-08-12 at 17-28-14 Kunstgallerij.png": "/static/media/Screenshot 2023-08-12 at 17-28-14 Kunstgallerij.4ad4b7d92a7ad0326fab.png",
+    "static/media/IMG_7075.png": "/static/media/IMG_7075.32c54960c840edf05937.png",
+    "static/media/services.png": "/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/about.png": "/static/media/about.34da930ab4436bc41a33.png",
+    "static/media/IMG_7078.jpg": "/static/media/IMG_7078.f3fc30f440c462e8a8c2.jpg",
+    "static/media/IMG_7075.jpg": "/static/media/IMG_7075.5a2249f9faa4905538e0.jpg",
+    "static/media/logo.svg": "/static/media/logo.db69ab3d72628dc90d79e6a2d59e174b.svg",
+    "index.html": "/index.html",
+    "main.8c8ac685.css.map": "/static/css/main.8c8ac685.css.map",
+    "main.01486a6c.js.map": "/static/js/main.01486a6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c8ac685.css",
+    "static/js/main.01486a6c.js"
+  ]
+}
