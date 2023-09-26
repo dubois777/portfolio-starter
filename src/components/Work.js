@@ -62,13 +62,13 @@ const Work = () => {
     </div>
     {/* pretitle */}
     <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
-     <a href="https://youtu.be/hd_OXqrsrqg" target="_blank"> <span className='text-gradient'>
+     <a href="https://www.youtube.com/watch?v=hd_OXqrsrqg" target="_blank"> <span className='text-gradient'>
      Art webshop design
       </span></a>
       </div>
      {/* title */}
      <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-      <span className='text-3xl text-white'>Vanjelle</span>
+ <span className='text-3xl text-white'>vanjelle</span>
      </div>
   </div>
 </motion.div>
