@@ -39,7 +39,7 @@ const About = () => {
             <h2 className='h2 text-accent'>About us .</h2>
             <h3 className='h3 mb-4'>De agency genaamd Dubois Media Development (DMD), zal
               <br/> prachtige websites voor u maken, zoals deze! Twijfel niet om contact met ons op te nemen <br/>
-              want DMD zal uw bedrijf drastisch verbeteren ;) </h3>
+              want DMD zal uw bedrijf drastisch verbeteren. </h3>
               <div className='flex'>
                 <div>
 
